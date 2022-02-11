@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MangataTS <img align="right" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true&theme=radical">
+### Hi there 👋 I'm MangataTS <img align="right" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true&theme=algolia">
 
 ![GitHub followers](https://img.shields.io/github/followers/MangataTS?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/MangataTS?style=social)
 - 🔭 SWPU本科在读 ...
@@ -9,5 +9,6 @@
 - 😄 Blogs: [acmer.blog.csdn.net](https://acmer.blog.csdn.net/?type=blog)
 
 ## &#x1f92b; Github Visitors
-<hr>
+
+
 [![Top Langs](https://profile-counter.glitch.me/MangataTS/count.svg)](https://github.com/MangataTS)
