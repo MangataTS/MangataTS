@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MangataTS <img align="right" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true">
+### Hi there 👋 I'm MangataTS <img align="right" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true&theme=Customizing stats card">
 
 ![GitHub followers](https://img.shields.io/github/followers/MangataTS?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/MangataTS?style=social)
 - 🔭 SWPU本科在读 ...
