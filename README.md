@@ -1,4 +1,8 @@
-### Hi there 👋 I'm MangataTS <img align="right" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true&theme=dark">
+### Hi there 👋 I'm MangataTS 
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChang3&layout=compact&hide=scss,html,ejs,nunjucks,css,batchfile&langs_count=4" >
+
+<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=MangataTS&show_icons=true&theme=dark">
 
 ![GitHub followers](https://img.shields.io/github/followers/MangataTS?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/MangataTS?style=social)
 - 🔭 SWPU本科电子与计算机工程在读
